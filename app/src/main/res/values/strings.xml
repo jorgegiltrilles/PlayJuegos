@@ -1,0 +1,9 @@
+<resources>
+    <string name="textView">Play Juegos</string>
+    <string name="app_name">Play Juegos</string>
+
+    <string name="button">PLAY</string>
+    <string name="button1">NEW PLAYER</string>
+    <string name="button2">PREFERENCIES</string>
+    <string name="button3">ABOUT</string>
+</resources>
